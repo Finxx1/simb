@@ -1,0 +1,10 @@
+# Don't include binary models
+models/**/
+models/*.ktx
+models/*.mdl
+
+# Don't include object files
+obj/*.o*
+
+# Don't include final binary (but keep ktx.dll)
+bin/simb*

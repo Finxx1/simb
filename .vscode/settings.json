@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stb_image.h": "c",
+        "glew.h": "c",
+        "glad.h": "c",
+        "struct.h": "c",
+        "mat3x2.h": "c",
+        "mat3x4.h": "c",
+        "mat4.h": "c",
+        "camera.h": "c",
+        "cmath": "c"
+    }
+}
